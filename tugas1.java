@@ -16,7 +16,6 @@ public class tugas1 {
             {"14", "19", "20"},
             {"22", "27", "29"}
         };
-        double angkaDesimal = 0.29;
         LinkedList<Integer> listAngka = new LinkedList<>(List.of(22, 19, 44, 60, 72));
 
 // Menampilkan output ke terminal
